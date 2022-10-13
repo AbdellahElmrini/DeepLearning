@@ -1,3 +1,3 @@
 # DeepLearning
 
-As part of my education at Ecole Polytechnique (France), I worked on some deep learning projects that I listed in this repo
+This is a list of deep learning projects I worked on as part of my education at Ecole Polytechnique (Paris).
